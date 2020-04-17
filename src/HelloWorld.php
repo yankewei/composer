@@ -8,4 +8,9 @@ class HelloWorld
     {
         return "hello {$name}";
     }
+
+    public function greetV2(string $name)
+    {
+        return "Hello {$name} V2";
+    }
 }
