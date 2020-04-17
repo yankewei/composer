@@ -1,0 +1,17 @@
+{
+    "name": "yankewei/composer",
+    "description": "composer test, noting",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yankwei",
+            "email": "15833997749@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yankewei\\Composer\\": "src/"
+        }
+    }
+}
